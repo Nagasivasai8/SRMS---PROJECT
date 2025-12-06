@@ -1,5 +1,6 @@
 1 John 78.50
-2 sai 99.00
-3 siva 98.00
+2 Sai 99.00
+3 Siva 98.00
 4 Gopi 90.00
-5 vijay 85.00
+5 Vijay 85.00
+
